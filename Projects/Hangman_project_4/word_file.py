@@ -1,0 +1,22 @@
+words = [
+    "ability",
+    "absolutely",
+    "accept",
+    "accident",
+    "account",
+    "accurate",
+    "achieve",
+    "across",
+    "action",
+    "active",
+    "activity",
+    "actual",
+    "actually",
+    "addition",
+    "address",
+    "admit",
+    "adult",
+    "advance",
+    "advice",
+    "affect"
+]
